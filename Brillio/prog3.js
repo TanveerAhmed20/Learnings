@@ -1,26 +1,3 @@
-// var city = new String("All that glitters is not gold");
-
-// var freq = {};
-// for( let i = 0;i<city.length;i++){
-//     if(freq[city[i]]==undefined)
-//         freq[city[i]]= 1;
-//     else
-//         freq[city[i]]++;
-// }
-
-// console.table(freq);
-
-// // console.log(Object.entries(freq));
-// // sorting 
-
-// freq = Object.entries(freq).sort((a,b) => b[1]-a[1] );
-
-// result = {};
-// for( x in freq){
-//     result[x[0]] = x[1];
-// }
-
-// console.table(result);
 
 
 
