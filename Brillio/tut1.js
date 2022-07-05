@@ -23,3 +23,26 @@ console.log(a+b);
 var a = undefined;
 var b = undefined;
 console.log(a+b);
+
+//
+
+var student = {
+    id : 1, 
+    name : "tanveer",
+    roll : "1815010",
+    email: "tnvrahmed98@gmail.com"
+};
+
+var student2 = {
+    id : 1, 
+    name : "tanveer",
+    roll : "1815010",
+    email: "tnvrahmed98@gmail.com"
+};
+
+
+if(student===student2) console.log("yes"); else console.log("no");
+
+// different hashcode for each object
+
+console.log(student);
